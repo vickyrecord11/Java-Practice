@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class FirstNonRepeatingCharacter {
 
-    public static int firstUniqChar(String s) {
+    public static int firstUniqChar(String s) {  
 
         int[] freq = new int[26];
 
