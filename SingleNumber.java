@@ -13,11 +13,8 @@ public class SingleNumber {
             if (count == 1) {
                 return nums[i];
             }
-
         }
-
         return -1;
-
     }
 
     public static void main(String[] args) {
