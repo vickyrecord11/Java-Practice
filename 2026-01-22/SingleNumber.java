@@ -13,17 +13,10 @@ public class SingleNumber {
             if (count == 1) {
                 return nums[i];
             }
-<<<<<<< HEAD
         }
         return -1;
-=======
-
-        }
-
-        return -1;
-
->>>>>>> 06aaca1 (push java codes)
     }
+
 
     public static void main(String[] args) {
         int[] nums = { 1, 1, 2 };
